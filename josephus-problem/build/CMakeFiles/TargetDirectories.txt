@@ -1,0 +1,5 @@
+/home/eesa/josephus-problem/build/CMakeFiles/josephus_qt6.dir
+/home/eesa/josephus-problem/build/CMakeFiles/edit_cache.dir
+/home/eesa/josephus-problem/build/CMakeFiles/rebuild_cache.dir
+/home/eesa/josephus-problem/build/CMakeFiles/josephus_qt6_autogen_timestamp_deps.dir
+/home/eesa/josephus-problem/build/CMakeFiles/josephus_qt6_autogen.dir

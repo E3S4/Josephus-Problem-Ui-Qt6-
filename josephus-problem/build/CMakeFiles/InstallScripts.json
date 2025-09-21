@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/eesa/josephus-problem/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
