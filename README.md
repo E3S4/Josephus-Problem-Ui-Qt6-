@@ -9,7 +9,7 @@ I tried testing my skills
 
 If you are having any issues try contacting me on email or discord
 -- 
-Email : eesak490@gmail.com
+     Email : eesak490@gmail.com
 # discord: 
           Noiz.aep
           
