@@ -1,1 +1,0 @@
-/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/josephus_qt6.dir/link.d CMakeFiles/josephus_qt6.dir/josephus_qt6_autogen/mocs_compilation.cpp.o CMakeFiles/josephus_qt6.dir/main.cpp.o -o josephus_qt6  /usr/lib/libQt6Widgets.so.6.9.2 /usr/lib/libQt6Gui.so.6.9.2 /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libQt6Core.so.6.9.2
