@@ -1,5 +1,6 @@
-# Josephus-Problem-Ui-Qt6-
+# Josephus Problem UI
 I tried testing my skills 
+--
 
 # Installation
 
